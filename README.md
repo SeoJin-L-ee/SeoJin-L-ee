@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 이서진👋
 
 <!--
 **gwakamoli/gwakamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
