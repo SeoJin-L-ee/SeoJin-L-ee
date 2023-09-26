@@ -1,4 +1,4 @@
-### Hi there 이서진👋
+### Hi there👋
 
 <p align="center">
 <a href="https://github.com/drkostas">
