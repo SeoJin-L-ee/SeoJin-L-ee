@@ -14,12 +14,12 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=SeoJin-L-ee&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true)
+
 </p>
-
-<br>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=highcontrast)
 
 <!--
 **gwakamoli/gwakamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
