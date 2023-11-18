@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-Lee&show_icons=true&theme=tokyonight" alt="SeoJin's GitHub Stats">
+    ![Seojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=radical)
 </p>
 
 <!--
