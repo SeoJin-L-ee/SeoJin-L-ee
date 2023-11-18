@@ -17,8 +17,10 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true)
+</p>
 
+<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true)
 </p>
 
 <!--
