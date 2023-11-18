@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5D799A&height=300&section=header&text=Welcome!!%20🌱-nl-&desc=This%20is%20Seojin's%20github.%20&fontSize=70&descSize=20&theme=highcontrast&animation=fadeIn)
 
-<br>
-
 <p align="center">
     
 <a href="https://github.com/drkostas">
@@ -14,7 +12,6 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=SeoJin-L-ee&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-<br>
 <br>
 
 </p>
