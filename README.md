@@ -1,9 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!!%20🌱&desc=This%20is%20seojin's%20github.&fontSize=80&descSize=30)
+
+<br>
+<br>
+
 ### Hi there👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!!%20🌱&desc=This%20is%20seojin's%20github.&fontSize=80&descSize=30)
-
-<br>
-<br>
-
 <p align="center">
     
 <a href="https://github.com/drkostas">
