@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-    ![Seojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=radical)
 </p>
 
 <!--
