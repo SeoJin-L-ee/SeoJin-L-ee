@@ -15,8 +15,8 @@
 
 </p>
 
-<div align=center>
-    ![SeoJin's github stats](https://github-readme-stats.vercel.app/api?username=SeoJin-Lee&show_icons=true&theme=tokyonight)
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-Lee&show_icons=true&theme=tokyonight" alt="SeoJin's GitHub Stats">
 </div>
 
 <!--
