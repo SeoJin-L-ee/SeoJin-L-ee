@@ -21,9 +21,9 @@
 <br>
 <br>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-Lee&show_icons=true&theme=tokyonight" alt="SeoJin's GitHub Stats">
-</div>
+</p>
 
 <!--
 **gwakamoli/gwakamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
