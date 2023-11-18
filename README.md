@@ -17,9 +17,8 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" alt="Anurag's GitHub stats">
-</p>
+![Seojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwakamoli)](https://solved.ac/gwakamoli/)
 
 <!--
 **gwakamoli/gwakamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
