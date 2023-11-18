@@ -1,5 +1,5 @@
 ### Hi there👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!!%20🌱&desc=This%20is%20seojin's%20github.&fontSize=90&descSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!!%20🌱&desc=This%20is%20seojin's%20github.&fontSize=90&descSize=35)
 
 
 <p align="center">
