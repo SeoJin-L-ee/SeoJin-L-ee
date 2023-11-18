@@ -5,11 +5,11 @@
 <br>
 
 <p align="center">
+    
 <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=SeoJin+Lee;Researcher+%7C+bachelor+Student+%7C+Software+Engineer;Backend+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
 </a>
 
-<br>
 <br>
     
 <a href="https://github.com/drkostas">
@@ -17,6 +17,9 @@
 </a>
 
 </p>
+
+<br>
+<br>
 
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-Lee&show_icons=true&theme=tokyonight" alt="SeoJin's GitHub Stats">
