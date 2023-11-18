@@ -19,9 +19,9 @@
 
 </p>
 
-<p align="center">
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true)
-</p>
+</div>
 
 <!--
 **gwakamoli/gwakamoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
