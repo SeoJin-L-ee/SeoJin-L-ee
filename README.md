@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" alt="Anurag's GitHub stats">
 </p>
 
 <!--
