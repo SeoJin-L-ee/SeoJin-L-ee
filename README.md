@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FB3D5&text=&animation=twinkling&height=80">
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=45&duration=3000&pause=3000&color=61DAFB&vCenter=true&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB">
+    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&duration=3000&pause=3000&color=61DAFB&vCenter=true&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB">
 </a>
 
 <br>
@@ -23,9 +23,9 @@
     </a>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" width=48% />
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react" />
+        <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react" width=51% />
     </a>
 </p>
 
