@@ -7,6 +7,10 @@
 </a>
 
 <br>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+
+<br>
     
 <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=SeoJin-L-ee&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
