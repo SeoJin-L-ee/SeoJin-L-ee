@@ -6,6 +6,12 @@
 
 <br>
 <br>
+
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&repeat=false&width=500&height=80&lines=SeoJin+Lee;Backend+%7C+SangMyung Univ.+%7C+Bachelor+Student" alt="Typing SVG" />
+</a>
+    
+<br>
 <br>
 
 ---
@@ -14,27 +20,16 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/drkostas">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&repeat=false&width=500&height=80&lines=SeoJin+Lee;Backend+%7C+SangMyung Univ.+%7C+Bachelor+Student" alt="Typing SVG" />
-    </a>
     <br>
-    <a href="https://github.com/drkostas">
+    <!-- a href="https://github.com/drkostas">
         <img src="https://github-stats-alpha.vercel.app/api?username=SeoJin-L-ee&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-    </a>
-    <br>
-    <br>
+    </a -->
     <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" width=48% />
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react" width=51% />
     </a>
 </p>
 
-<br>
-<br>
-
----
-
-<br>
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react)](https://github.com/SeoJin-L-ee/github-readme-activity-graph)
@@ -53,7 +48,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
