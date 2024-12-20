@@ -26,7 +26,7 @@
     </a -->
     <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" width=48% />
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react" width=51% />
+        <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react" width=51% alt="GitHub Readme Streak Stats" />
     </a>
 </p>
 
