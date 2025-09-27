@@ -53,6 +53,7 @@
     <br> <br>
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker Compose-384d54?style=flat&logo=DockerCompose&logoColor=white">
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white">
     <br> <br>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"> 
