@@ -39,7 +39,7 @@
 <!-- ⭐ 깃허브 연속 스탯 (Current Streak 기준: 주 단위) -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&mode=weekly" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&fire=9FE7FC&mode=weekly" />
     <!-- 방문자가 설정한 테마가 화이트모드일 경우 -->
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&background=E5F0F7&border=565A5C&stroke=565A5C&fire=9FE7FC&currStreakNum=3D899E&sideNums=3D899E&currStreakLabel=3D899E&sideLabels=3D899E&dates=282828&mode=weekly" />
     <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&mode=weekly" width=51% alt="GitHub Readme Streak Stats" />
