@@ -3,20 +3,20 @@
 <!-- ⭐ 대표인사: Welcome to Seojin's GitHub!👻 -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&duration=2000&pause=100&color=61DAFB&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&color=61DAFB&duration=2000&pause=100&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB" />
     <!-- 방문자가 설정한 테마가 화이트모드일 경우 표시 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&duration=2000&pause=100&color=316D7E&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&color=316D7E&duration=2000&pause=100&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB" />
+    <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&duration=2000&pause=100&color=61DAFB&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB">
 </picture>
-
-<br>
 
 <!-- ⭐ 자기소개: Backend | SangMyung+Univ. | Bachelor Student -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&size=15&color=ffffff&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" />
     <!-- 방문자가 설정한 테마가 화이트모드일 경우 -->
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&color=49A4BC&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" />
+    <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=49A4BC&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" alt="Typing SVG" />
 </picture>
 
@@ -33,6 +33,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" />
     <!-- 방문자가 설정한 테마가 화이트모드일 경우 -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&text_color=3D899E&bg_color=E5F0F7&border_color=565A5C&theme=react" />
+    <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" width=48% alt="readme stats" />
 </picture>
 
@@ -42,6 +43,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&fire=9FE7FC&mode=weekly" />
     <!-- 방문자가 설정한 테마가 화이트모드일 경우 -->
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&background=E5F0F7&border=565A5C&stroke=565A5C&fire=9FE7FC&currStreakNum=3D899E&sideNums=3D899E&currStreakLabel=3D899E&sideLabels=3D899E&dates=282828&mode=weekly" />
+    <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&mode=weekly" width=51% alt="GitHub Readme Streak Stats" />
 </picture>
 
@@ -54,6 +56,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react&radius=8" />
     <!-- 방문자가 설정한 테마가 화이트모드일 경우 -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&bg_color=E5F0F7&color=316D7E&title_color=316D7E&point=3D899E&border_color=000000&theme=react&radius=8&grid=316D7E" />
+    <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react&radius=8" alt="activity graph" />
 </picture>
 
