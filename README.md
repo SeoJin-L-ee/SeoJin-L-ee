@@ -11,6 +11,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" alt="Typing SVG" />
 </a>
 
+<br>
+<br>
+
 ---
 
 <br>
@@ -76,10 +79,17 @@
 <br>
 <br>
 
+---
+
+<br>
+<br>
+<br>
+
 <p align="center">
     <a href="https://solved.ac/gwakamoli/" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gwakamoli" alt="Solved.ac Profile" />
     </a>
 </p>
 
+<br>
 <br>
