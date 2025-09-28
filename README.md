@@ -32,7 +32,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react)](https://github.com/SeoJin-L-ee/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react&radius=8)](https://github.com/SeoJin-L-ee/github-readme-activity-graph)
 
 <br>
 <br>
