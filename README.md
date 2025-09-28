@@ -110,6 +110,25 @@
 <br>
 <br>
 
+<!-- ⭐ 스탯 트로피 (B등급 이상의 트로피만 표시) -->
+<p align="center">
+    <picture>
+        <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=15&rank=-C&rank=-?&column=6" />
+        <!-- 방문자가 설정한 테마가 라이트모드일 경우 -->
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=flat&margin-w=18&rank=-C&rank=-?&column=6" />
+        <!-- 조건 해당 없을 경우 대체 이미지 -->
+        <img src="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=18&rank=-C&rank=-?&column=6" alt="github-profile-trophy" />
+    </picture>
+</p>
+
+<br>
+
+---
+
+<br>
+<br>
+
 <!-- ⭐ 백준 티어표 (solved.ac) -->
 <p align="center">
     <a href="https://solved.ac/gwakamoli/" target="_blank">
