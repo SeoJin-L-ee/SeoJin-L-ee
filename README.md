@@ -1,3 +1,4 @@
+<!-- ⭐ 상단의 물결 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FB3D5&text=&animation=twinkling&height=80">
 
 <!-- ⭐ 대표인사: Welcome to Seojin's GitHub!👻 -->
@@ -67,6 +68,25 @@
 ---
 
 <br>
+<br>
+
+<!-- ⭐ 스탯 트로피 (B등급 이상의 트로피만 표시) -->
+<p align="center">
+    <picture>
+        <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=15&rank=-C&rank=-?&column=6" />
+        <!-- 방문자가 설정한 테마가 라이트모드일 경우 -->
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=flat&margin-w=18&rank=-C&rank=-?&column=6" />
+        <!-- 조건 해당 없을 경우 대체 이미지 -->
+        <img src="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=18&rank=-C&rank=-?&column=6" alt="github-profile-trophy" />
+    </picture>
+</p>
+
+<br>
+
+---
+
+<br>
 
 <!-- ⭐ 기술 스택 (언어부터 툴까지) -->
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
@@ -101,25 +121,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-</p>
-
-<br>
-
----
-
-<br>
-<br>
-
-<!-- ⭐ 스탯 트로피 (B등급 이상의 트로피만 표시) -->
-<p align="center">
-    <picture>
-        <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=15&rank=-C&rank=-?&column=6" />
-        <!-- 방문자가 설정한 테마가 라이트모드일 경우 -->
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=flat&margin-w=18&rank=-C&rank=-?&column=6" />
-        <!-- 조건 해당 없을 경우 대체 이미지 -->
-        <img src="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=18&rank=-C&rank=-?&column=6" alt="github-profile-trophy" />
-    </picture>
 </p>
 
 <br>
