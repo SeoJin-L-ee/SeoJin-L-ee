@@ -42,7 +42,7 @@
 
 <!-- ⭐ 1주 간의 기여도 그래프 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=github-dark&radius=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react&radius=8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&bg_color=E5F0F7&color=316D7E&title_color=316D7E&point=3D899E&border_color=000000&theme=react&radius=8&grid=316D7E" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeoJin-L-ee&theme=react&radius=8" alt="activity graph" />
 </picture>
