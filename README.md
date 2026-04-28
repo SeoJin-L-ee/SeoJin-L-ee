@@ -130,6 +130,12 @@
 <br>
 <br>
 
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/SeoJin-L-ee"/>
+  </a>
+</div>
+
 <!-- ⭐ 백준 티어표 (solved.ac) -->
 <!-- p align="center">
     <a href="https://solved.ac/gwakamoli/" target="_blank">
