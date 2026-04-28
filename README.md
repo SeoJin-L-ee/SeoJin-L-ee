@@ -74,11 +74,11 @@
 <p align="center">
     <picture>
         <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=15&rank=-C&rank=-?&column=6" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=15&rank=-D&rank=-?&column=6" />
         <!-- 방문자가 설정한 테마가 라이트모드일 경우 -->
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=flat&margin-w=18&rank=-C&rank=-?&column=6" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=flat&margin-w=18&rank=-D&rank=-?&column=6" />
         <!-- 조건 해당 없을 경우 대체 이미지 -->
-        <img src="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=18&rank=-C&rank=-?&column=6" alt="github-profile-trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=SeoJin-L-ee&theme=algolia&margin-w=18&rank=-D&rank=-?&column=6" alt="github-profile-trophy" />
     </picture>
 </p>
 
