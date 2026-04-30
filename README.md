@@ -132,14 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/SeoJin-L-ee" width="45%"/>
-  </a>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeoJin-L-ee&utm_content=line">
-      <img
-        src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771801700908418"
-        width="45%"
-        height="400"
-      />
+    <img src="https://render.gitanimals.org/farms/SeoJin-L-ee"/>
   </a>
 </div>
 
