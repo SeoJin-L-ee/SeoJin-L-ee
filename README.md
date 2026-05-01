@@ -128,7 +128,6 @@
 ---
 
 <br>
-<br>
 
 <!-- ⭐ GitAnimals (동물 레벨와 재화는 커밋 수에 거의 비례) -->
 <h3 align="center"> 🐶 GitAnimals 🐶 </h3>
@@ -148,7 +147,7 @@
       </td>
       <td>
         <a href="https://github.com/devxb/gitanimals">
-          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771908722763568&contribution-view=false" width="150" height="150"/>
+          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771908722763568" width="150" height="150"/>
         </a>
       </td>
       <td>
