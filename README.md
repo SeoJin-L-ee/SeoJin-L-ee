@@ -89,7 +89,7 @@
 <br>
 
 <!-- ⭐ 기술 스택 (언어부터 툴까지) -->
-<h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
+<h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
@@ -130,11 +130,41 @@
 <br>
 <br>
 
+<!-- ⭐ GitAnimals (동물 레벨와 재화는 커밋 수에 거의 비례) -->
+<h3 align="center"> 🐶 GitAnimals 🐶 </h3>
+<br>
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/SeoJin-L-ee"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836502751443815386&contribution-view=false" width="150" height="150"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771801700908418&contribution-view=false" width="150" height="150"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771908722763568&contribution-view=false" width="150" height="150"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771833544060516&contribution-view=false" width="150" height="150"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/lines/SeoJin-L-ee?pet-id=836771801986111696&contribution-view=false" width="150" height="150"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <!-- ⭐ 백준 티어표 (solved.ac) -->
 <!-- p align="center">
