@@ -130,6 +130,7 @@
 <br>
 
 <!-- ⭐ GitAnimals (동물 레벨와 재화는 커밋 수에 거의 비례) -->
+<!-- 방문자가 설정한 테마에 따라 자동으로 다크/라이트 모드로 보여짐 -->
 <h3 align="center"> 🐶 GitAnimals 🐶 </h3>
 <br>
 <div align="center">
