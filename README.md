@@ -165,6 +165,13 @@
   </table>
 </div>
 
+<br>
+<br>
+
+---
+
+<br>
+<br>
 
 <!-- ⭐ 백준 티어표 (solved.ac) -->
 <!-- p align="center">
