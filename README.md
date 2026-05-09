@@ -10,7 +10,7 @@
     <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&duration=2000&pause=100&color=61DAFB&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB">
 </picture>
-Backend Developer | Server & DevOps
+
 <!-- ⭐ 자기소개: Backend Developer | Server & DevOps | SangMyung Univ. Alumni -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
