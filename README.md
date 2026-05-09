@@ -10,15 +10,15 @@
     <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=35&duration=2000&pause=100&color=61DAFB&vCenter=true&repeat=false&width=600&height=60&lines=Welcome+to+Seojin's+GitHub!%F0%9F%91%BB">
 </picture>
-
-<!-- ⭐ 자기소개: Backend | SangMyung+Univ. | Bachelor Student -->
+Backend Developer | Server & DevOps
+<!-- ⭐ 자기소개: Backend Developer | Server & DevOps | SangMyung Univ. Alumni -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&size=15&color=ffffff&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&size=15&color=ffffff&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+Developer+%7C+Server+%26+DevOps+%7C+SangMyung+Univ.+Alumni" />
     <!-- 방문자가 설정한 테마가 라이트모드일 경우 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&color=49A4BC&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Georgia&color=49A4BC&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+Developer+%7C+Server+%26+DevOps+%7C+SangMyung+Univ.+Alumni" />
     <!-- 조건 해당 없을 경우 대체 이미지 -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=49A4BC&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+%7C+SangMyung+Univ.+%7C+Bachelor+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=49A4BC&size=18&duration=2000&pause=1&vCenter=true&repeat=false&width=500&height=80&lines=Backend+Developer+%7C+Server+%26+DevOps+%7C+SangMyung+Univ.+Alumni" alt="Typing SVG" />
 </picture>
 
 <br>
