@@ -166,16 +166,8 @@
 </div>
 
 <br>
-
----
-
 <br>
 
-<!-- ⭐ 백준 티어표 (solved.ac) -->
-<!-- p align="center">
-    <a href="https://solved.ac/gwakamoli/" target="_blank">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gwakamoli" alt="Solved.ac Profile" />
-    </a>
-</p -->
+---
 
 <br>
