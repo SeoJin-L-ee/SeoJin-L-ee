@@ -28,6 +28,7 @@
 <br>
 <br>
 
+<div align="center">
 <!-- ⭐ 깃허브 스탯: 전체 커밋, 전체 PR, 전체 이슈 ETC. -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
@@ -47,6 +48,7 @@
     <!-- 조건 해당 없을 경우 대체 이미지 -->
     <img src="https://streak-stats.demolab.com/?user=SeoJin-L-ee&theme=react&mode=weekly" width=51% alt="GitHub Readme Streak Stats" />
 </picture>
+</div>
 
 <br>
 <br>
