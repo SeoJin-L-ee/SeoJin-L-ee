@@ -1,6 +1,6 @@
 <!-- ⭐ 상단의 물결 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FB3D5&text=&animation=twinkling&height=80">
-
+ 
 <!-- ⭐ 대표인사: Welcome to Seojin's GitHub!👻 -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
