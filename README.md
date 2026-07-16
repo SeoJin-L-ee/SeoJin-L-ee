@@ -32,11 +32,11 @@
 <!-- ⭐ 깃허브 스탯: 전체 커밋, 전체 PR, 전체 이슈 ETC. -->
 <picture>
     <!-- 방문자가 설정한 테마가 다크모드일 경우 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" />
     <!-- 방문자가 설정한 테마가 라이트모드일 경우 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&text_color=3D899E&bg_color=E5F0F7&border_color=565A5C&theme=react" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=SeoJin-L-ee&show_icons=true&text_color=3D899E&bg_color=E5F0F7&border_color=565A5C&theme=react" />
     <!-- 조건 해당 없을 경우 대체 이미지 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" width=48% alt="readme stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=SeoJin-L-ee&show_icons=true&theme=react" width=48% alt="readme stats" />
 </picture>
 
 <!-- ⭐ 깃허브 연속 스탯 (Current Streak 기준: 주 단위) -->
